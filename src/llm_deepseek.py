@@ -3,7 +3,7 @@ from openai import OpenAI
 def DeepSeekLLM():
     client = OpenAI(
         base_url="https://openrouter.ai/api/v1",
-        api_key="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",
+        api_key="apikey",
     )
 
     def call(prompt):
