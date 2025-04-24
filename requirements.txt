@@ -1,0 +1,6 @@
+faiss-cpu 
+streamlit 
+sentence-transformers 
+langchain 
+numpy 
+packaging
